@@ -1,0 +1,1276 @@
+[
+  {
+    "name": "still my words",
+    "name_en": "still my words",
+    "difficulty": 6,
+    "option": "SR/SR",
+    "note": ""
+  },
+  {
+    "name": "ハリツヤランデヴー",
+    "name_en": "haritsuya rendezvous",
+    "difficulty": 10,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "水上の提督(Short mix from \"幻想水滸伝V\")",
+    "name_en": "suijounoteitoku short mix from gensousuikodenv",
+    "difficulty": 10,
+    "option": "FLIP R/-",
+    "note": ""
+  },
+  {
+    "name": "Aurora",
+    "name_en": "Aurora",
+    "difficulty": 11,
+    "option": "M/M",
+    "note": ""
+  },
+  {
+    "name": "Acid Pumper",
+    "name_en": "Acid Pumper",
+    "difficulty": 11,
+    "option": "M/M",
+    "note": ""
+  },
+  {
+    "name": "ALBA -黎明-",
+    "name_en": "ALBA -Reimei-",
+    "difficulty": 11,
+    "option": "M/M",
+    "note": ""
+  },
+  {
+    "name": "Amnolys",
+    "name_en": "Amnolys",
+    "difficulty": 11,
+    "option": "???",
+    "note": "ソフランは1回、速くなったら皿でFHS合わせる"
+  },
+  {
+    "name": "Beat Juggling Mix",
+    "name_en": "Beat Juggling Mix",
+    "difficulty": 11,
+    "option": "M/M",
+    "note": "最初の曲調が変わったあとに皿チョン(次の曲が始まる手前でよい)。中盤のゆるゆる遅くなる箇所でなり始めた瞬間皿チョン"
+  },
+  {
+    "name": "Bounce Bounce Bounce",
+    "name_en": "Bounce Bounce Bounce",
+    "difficulty": 11,
+    "option": "SR/SR",
+    "note": ""
+  },
+  {
+    "name": "D",
+    "name_en": "D",
+    "difficulty": 11,
+    "option": "R/R",
+    "note": "普通に開始で加速時白2回、後半青1回"
+  },
+  {
+    "name": "Donky Donk",
+    "name_en": "Donky Donk",
+    "difficulty": 11,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "FUTURE is Dead",
+    "name_en": "FUTURE is Dead",
+    "difficulty": 11,
+    "option": "M/SR",
+    "note": ""
+  },
+  {
+    "name": "GRADIUS -FULL SPEED-",
+    "name_en": "GRADIUS -FULL SPEED-",
+    "difficulty": 11,
+    "option": "FLIP R/SR",
+    "note": "白1回->青1回->白1回"
+  },
+  {
+    "name": "LESSON 5",
+    "name_en": "LESSON 5",
+    "difficulty": 11,
+    "option": "FLIP R/M",
+    "note": ""
+  },
+  {
+    "name": "Last Message",
+    "name_en": "Last Message",
+    "difficulty": 11,
+    "option": "FLIP M/M",
+    "note": ""
+  },
+  {
+    "name": "Let The Track Flow",
+    "name_en": "Let The Track Flow",
+    "difficulty": 11,
+    "option": "FLIP M/M",
+    "note": ""
+  },
+  {
+    "name": "Light Shine",
+    "name_en": "Light Shine",
+    "difficulty": 11,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "Lighting Shower",
+    "name_en": "Lighting Shower",
+    "difficulty": 11,
+    "option": "R/RR",
+    "note": ""
+  },
+  {
+    "name": "Lovely Storm",
+    "name_en": "Lovely Storm",
+    "difficulty": 11,
+    "option": "FLIP R/M",
+    "note": ""
+  },
+  {
+    "name": "m1dy Deluxe",
+    "name_en": "m1dy Deluxe",
+    "difficulty": 11,
+    "option": "SR/R",
+    "note": ""
+  },
+  {
+    "name": "memories",
+    "name_en": "memories",
+    "difficulty": 11,
+    "option": "FLIP M/M",
+    "note": ""
+  },
+  {
+    "name": "Neonlights",
+    "name_en": "Neonlights",
+    "difficulty": 11,
+    "option": "R/R",
+    "note": ""
+  },
+  {
+    "name": "Never Fade Away",
+    "name_en": "Never Fade Away",
+    "difficulty": 11,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "nostos",
+    "name_en": "nostos",
+    "difficulty": 11,
+    "option": "-/-",
+    "note": "356スタート緑数字を1.125倍(310:348.75, 316:355.5)"
+  },
+  {
+    "name": "OUTER LIMITS ALTERNATIVE",
+    "name_en": "OUTER LIMITS ALTERNATIVE",
+    "difficulty": 11,
+    "option": "SR/SR",
+    "note": ""
+  },
+  {
+    "name": "Overload Frontier",
+    "name_en": "Overload Frontier",
+    "difficulty": 11,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "PAPAYAPA BASS",
+    "name_en": "PAPAYAPA BASS",
+    "difficulty": 11,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "POODLE",
+    "name_en": "POODLE",
+    "difficulty": 11,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "Programmed Life",
+    "name_en": "Programmed Life",
+    "difficulty": 11,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "Programmed World",
+    "name_en": "Programmed World",
+    "difficulty": 11,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "Quick Silver",
+    "name_en": "Quick Silver",
+    "difficulty": 11,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "Real",
+    "name_en": "Real",
+    "difficulty": 11,
+    "option": "FLIP -/-",
+    "note": ""
+  },
+  {
+    "name": "ROTTERDAM SHOGUN",
+    "name_en": "ROTTERDAM SHOGUN",
+    "difficulty": 11,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "Sarutobi Champion is 拙者",
+    "name_en": "Sarutobi Champion is Sessha",
+    "difficulty": 11,
+    "option": "-/-",
+    "note": "速くなった瞬間急いで変える"
+  },
+  {
+    "name": "SAY BAY",
+    "name_en": "SAY BAY",
+    "difficulty": 11,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "Scarlet Moon",
+    "name_en": "Scarlet Moon",
+    "difficulty": 11,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "Scars of FAUNA",
+    "name_en": "Scars of FAUNA",
+    "difficulty": 11,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "Scharfrichter",
+    "name_en": "Scharfrichter",
+    "difficulty": 11,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "SCHWARZSCHILD FILED",
+    "name_en": "SCHWARZSCHILD FILED",
+    "difficulty": 11,
+    "option": "RR/RR",
+    "note": ""
+  },
+  {
+    "name": "Second Heaven",
+    "name_en": "Second Heaven",
+    "difficulty": 11,
+    "option": "FLIP -/M",
+    "note": ""
+  },
+  {
+    "name": "Seize the Day",
+    "name_en": "Seize the Day",
+    "difficulty": 11,
+    "option": "SR/-",
+    "note": ""
+  },
+  {
+    "name": "SHADE",
+    "name_en": "SHADE",
+    "difficulty": 11,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "SHION",
+    "name_en": "SHION",
+    "difficulty": 11,
+    "option": "RR/-",
+    "note": ""
+  },
+  {
+    "name": "SHOX",
+    "name_en": "SHOX",
+    "difficulty": 11,
+    "option": "RR/RR",
+    "note": ""
+  },
+  {
+    "name": "Sidechained Threats",
+    "name_en": "Sidechained Threats",
+    "difficulty": 11,
+    "option": "SR/SR",
+    "note": ""
+  },
+  {
+    "name": "So Fabulous !!",
+    "name_en": "So Fabulous !!",
+    "difficulty": 11,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "STEEL NEEDLE",
+    "name_en": "STEEL NEEDLE",
+    "difficulty": 11,
+    "option": "FLIP M/M",
+    "note": ""
+  },
+  {
+    "name": "STILL IN MY HEART",
+    "name_en": "STILL IN MY HEART",
+    "difficulty": 11,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "Sweet Sweet Magic",
+    "name_en": "Sweet Sweet Magic",
+    "difficulty": 11,
+    "option": "M/M",
+    "note": ""
+  },
+  {
+    "name": "switch",
+    "name_en": "switch",
+    "difficulty": 11,
+    "option": "M/M",
+    "note": ""
+  },
+  {
+    "name": "Symmetry",
+    "name_en": "Symmetry",
+    "difficulty": 11,
+    "option": "-/-",
+    "note": "前半で左2->46->7の繰り返しがあるので46を人親で取ると便利"
+  },
+  {
+    "name": "Temple of Anubis",
+    "name_en": "Temple of Anubis",
+    "difficulty": 11,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "THE CANNONBALLER",
+    "name_en": "THE CANNONBALLER",
+    "difficulty": 11,
+    "option": "-/R",
+    "note": ""
+  },
+  {
+    "name": "Tori-no-kimochi",
+    "name_en": "Tori-no-kimochi",
+    "difficulty": 11,
+    "option": "-/R",
+    "note": ""
+  },
+  {
+    "name": "THE CUBE",
+    "name_en": "THE CUBE",
+    "difficulty": 11,
+    "option": "M/M",
+    "note": ""
+  },
+  {
+    "name": "THE FALLEN",
+    "name_en": "THE FALLEN",
+    "difficulty": 11,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "Thunder",
+    "name_en": "Thunder",
+    "difficulty": 11,
+    "option": "FLIP -/M",
+    "note": ""
+  },
+  {
+    "name": "Thunderbolt",
+    "name_en": "Thunderbolt",
+    "difficulty": 11,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "Time to Air",
+    "name_en": "Time to Air",
+    "difficulty": 11,
+    "option": "M/RR",
+    "note": ""
+  },
+  {
+    "name": "Time To Empress",
+    "name_en": "Time To Empress",
+    "difficulty": 11,
+    "option": "M/M",
+    "note": ""
+  },
+  {
+    "name": "ToyCube Pf.(RX-Ver.S.P.L.)",
+    "name_en": "ToyCube Pf.(RX-Ver.S.P.L.)",
+    "difficulty": 11,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "VALLIS-NERIA",
+    "name_en": "VALLIS-NERIA",
+    "difficulty": 11,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "Vulkan",
+    "name_en": "Vulkan",
+    "difficulty": 11,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "花冠 feat.Aikapin",
+    "name_en": "hanakanmuri feat.aikapin",
+    "difficulty": 11,
+    "option": "FLIP M/M",
+    "note": ""
+  },
+  {
+    "name": "デッドボヲル de ホームラン",
+    "name_en": "Deadball de Homerun",
+    "difficulty": 11,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "op.31 叙情",
+    "name_en": "op.31 Jojo",
+    "difficulty": 12,
+    "option": "",
+    "note": "578スタートで開始直後2個青、すぐに1個白。速くなる直前に1個白。中盤で皿ちょん。最後手前で1個青"
+  },
+  {
+    "name": "DAY DREAM",
+    "name_en": "DAY DREAM",
+    "difficulty": 12,
+    "option": "FLIP R/RR",
+    "note": "179スタート直後白8回,300前に白7回,170前に皿チョン,中盤青5回"
+  },
+  {
+     "name": "音楽",
+     "name_en": "ongaku",
+    "difficulty": 12,
+    "option": "R/R",
+    "note": "310->341 316->347 産卵前に皿チョン、最後は落ち着いてSud+外す"
+  },
+  {
+     "name": "A",
+     "name_en": "A",
+    "difficulty": 12,
+    "option": "R/R",
+    "note": "649スタート (191/93)*x"
+  },
+  {
+     "name": "moon_child",
+     "name_en": "moon_child",
+    "difficulty": 12,
+    "option": "FLIP R/R",
+    "note": "310->340 316->346 (160/146.0)*x"
+  },
+  {
+     "name": "TRANOID",
+     "name_en": "TRANOID",
+    "difficulty": 12,
+    "option": "R/R",
+    "note": "310->341 316->347 前半終了直後皿チョン"
+  },
+  {
+     "name": "Concertino in Blue",
+     "name_en": "Concertino in Blue",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": "310->340 316->350 (155.0/140)*x"
+  },
+  {
+     "name": "Close the World feat.a☆ru",
+     "name_en": "Close the World feat.aru",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+     "name": "Close the World feat.a☆ru †LEGGENDARIA",
+     "name_en": "Close the World feat.aru LEGGENDARIA",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "DUE TOMORROW",
+    "name_en": "DUE TOMORROW",
+    "difficulty": 12,
+    "option": "FLIP M/-",
+    "note": ""
+  },
+  {
+    "name": "ECHIDNA",
+    "name_en": "ECHIDNA",
+    "difficulty": 12,
+    "option": "RR/-",
+    "note": ""
+  },
+  {
+    "name": "EBONY & IVORY†",
+    "name_en": "EBONY & IVORY LEGGENDARIA",
+    "difficulty": 12,
+    "option": "-/R",
+    "note": ""
+  },
+  {
+    "name": "Bad Manics",
+    "name_en": "Bad Manics",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "HAERETICUS",
+    "name_en": "HAERETICUS",
+    "difficulty": 12,
+    "option": "R/-",
+    "note": ""
+  },
+  {
+    "name": "Cheer Train",
+    "name_en": "Cheer Train",
+    "difficulty": 12,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "chaos eater-IIDX edition-",
+    "name_en": "chaos eater-IIDX edition-",
+    "difficulty": 12,
+    "option": "SR/-",
+    "note": ""
+  },
+  {
+    "name": "Confiserie",
+    "name_en": "Confiserie",
+    "difficulty": 12,
+    "option": "FLIP -/M",
+    "note": ""
+  },
+  {
+    "name": "DARK LEGACY",
+    "name_en": "DARK LEGACY",
+    "difficulty": 12,
+    "option": "RR/-",
+    "note": ""
+  },
+  {
+    "name": "Elemental Creation",
+    "name_en": "Elemental Creation",
+    "difficulty": 12,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "EMERALDAS",
+    "name_en": "EMERALDAS",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "超青少年ノ為ノ超多幸ナ超古典的超舞曲†",
+    "name_en": "Chouseishounennotamenochoutakounachoukotentekichoubukyoku LEGGENDARIA",
+    "difficulty": 12,
+    "option": "FLIP M/-",
+    "note": ""
+  },
+  {
+    "name": "VANESSA†",
+    "name_en": "VANESSA†",
+    "difficulty": 12,
+    "option": "FLIP M/-",
+    "note": ""
+  },
+  {
+    "name": "仮想空間の旅人たち†",
+    "name_en": "Kasoukuukannotabibitotachi LEGGENDARIA",
+    "difficulty": 12,
+    "option": "R/-",
+    "note": ""
+  },
+  {
+    "name": "Sol Cosine Job 2",
+    "name_en": "Sol Cosine Job 2",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "The Sampling Paradise",
+    "name_en": "The Sampling Paradise",
+    "difficulty": 12,
+    "option": "M/M",
+    "note": ""
+  },
+  {
+    "name": "GOBBLE",
+    "name_en": "GOBBLE",
+    "difficulty": 12,
+    "option": "M/R",
+    "note": ""
+  },
+  {
+    "name": "ICARUS†",
+    "name_en": "ICARUS LEGGENDARIA",
+    "difficulty": 12,
+    "option": "FLIP M/M",
+    "note": ""
+  },
+  {
+    "name": "JOMANDA",
+    "name_en": "JOMANDA",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "Fascination MAXX",
+    "name_en": "Fascination MAXX",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)",
+    "name_en": "nagisanokoakuma lovely radio",
+    "difficulty": 12,
+    "option": "FLIP M/-",
+    "note": ""
+  },
+  {
+    "name": "共鳴遊戯の華",
+    "name_en": "kyoumei yuugi no hana",
+    "difficulty": 12,
+    "option": "FLIP R/M",
+    "note": ""
+  },
+  {
+    "name": "表裏一体!?怪盗いいんちょの悩み♥",
+    "name_en": "hyouri ittai!? kaitouiinchononayami",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "FUZIN RAIZIN",
+    "name_en": "FUZIN RAIZIN",
+    "difficulty": 12,
+    "option": "M/M",
+    "note": ""
+  },
+  {
+    "name": "〆",
+    "name_en": "shime",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "Caterpillar",
+    "name_en": "Caterpillar",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "桜",
+    "name_en": "sakura",
+    "difficulty": 12,
+    "option": "FLIP R/RR",
+    "note": ""
+  },
+  {
+    "name": "火影",
+    "name_en": "Hikage",
+    "difficulty": 12,
+    "option": "FLIP -/-",
+    "note": ""
+  },
+  {
+    "name": "TOGAKUSHI",
+    "name_en": "TOGAKUSHI",
+    "difficulty": 12,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "SKY HIGH",
+    "name_en": "SKY HIGH",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "Punisher",
+    "name_en": "Punisher",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "東京神話",
+    "name_en": "Tokyo shinwa",
+    "difficulty": 12,
+    "option": "FLIP RR/M",
+    "note": ""
+  },
+  {
+    "name": "Level One",
+    "name_en": "Level One",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "minimalian",
+    "name_en": "minimalian",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "Night sky",
+    "name_en": "Night sky",
+    "difficulty": 12,
+    "option": "M/M",
+    "note": ""
+  },
+  {
+    "name": "NZM",
+    "name_en": "NZM",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "Proof of the existence",
+    "name_en": "Proof of the existence",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "ra'am",
+    "name_en": "ra'am",
+    "difficulty": 12,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "route 80s",
+    "name_en": "route 80s",
+    "difficulty": 12,
+    "option": "FLIP M/M",
+    "note": ""
+  },
+  {
+    "name": "Say YEEEAHH",
+    "name_en": "Say YEEEAHH",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "Shooting Fireball",
+    "name_en": "Shooting Fireball",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "Sigmund†LEGGENDARIA",
+    "name_en": "Sigmund LEGGENDARIA",
+    "difficulty": 12,
+    "option": "M/M",
+    "note": ""
+  },
+  {
+    "name": "GIGA THRASH",
+    "name_en": "GIGA THRASH",
+    "difficulty": 12,
+    "option": "FLIP R/M",
+    "note": ""
+  },
+  {
+    "name": "Snake Stick",
+    "name_en": "Snake Stick",
+    "difficulty": 12,
+    "option": "-/RR",
+    "note": ""
+  },
+  {
+    "name": "Sounds Of Summer",
+    "name_en": "Sounds Of Summer",
+    "difficulty": 12,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "Thor's Hammer",
+    "name_en": "Thor's Hammer",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "TROOPERS",
+    "name_en": "TROOPERS",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "Unicorn tail",
+    "name_en": "Unicorn tail",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "VOX UP",
+    "name_en": "VOX UP",
+    "difficulty": 12,
+    "option": "FLIP M/-",
+    "note": ""
+  },
+  {
+    "name": "灼熱 Pt.2 Long Train Running",
+    "name_en": "Shakunetsu Pt.2 Long Train Running",
+    "difficulty": 12,
+    "option": "FLIP",
+    "note": ""
+  },
+  {
+    "name": "海神",
+    "name_en": "Wadatsumi",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "255",
+    "name_en": "255",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "刃図羅",
+    "name_en": "bazura",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "oratio",
+    "name_en": "oratio",
+    "difficulty": 12,
+    "option": "FLIP M/M",
+    "note": ""
+  },
+  {
+    "name": "カジノファイヤーことみちゃん",
+    "name_en": "casino fire kotomichan",
+    "difficulty": 12,
+    "option": "FLIP -/RR",
+    "note": ""
+  },
+  {
+    "name": "OTENAMI Hurricane",
+    "name_en": "OTENAMI Hurricane",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "リリーゼと炎龍レーヴァテイン",
+    "name_en": "riri-zetoenryulaevatainn",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "リリーゼと炎龍レーヴァテイン",
+    "name_en": "riri-zetoenryulaevatainn",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "reunion",
+    "name_en": "reunion",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": "安定を取るなら"
+  },
+  {
+    "name": "rumrum triplets",
+    "name_en": "rumrum triplets",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "T-REX vs Velociraptor (In the Far east euphoria)",
+    "name_en": "T-REX vs Velociraptor (In the Far east euphoria)",
+    "difficulty": 12,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "SWEET LAB",
+    "name_en": "SWEET LAB",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "Todestrieb",
+    "name_en": "SWEET LAB",
+    "difficulty": 12,
+    "option": "M(R?)/-",
+    "note": ""
+  },
+  {
+    "name": "KAMAITACHI†",
+    "name_en": "KAMAITACHI LEGGENDARIA",
+    "difficulty": 12,
+    "option": "FLIP M/M",
+    "note": ""
+  },
+  {
+    "name": "fallen leaves",
+    "name_en": "fallen leaves",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "fallen leaves",
+    "name_en": "fallen leaves",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "four pieces of heaven",
+    "name_en": "four pieces of heaven",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "GHOST REVIVAL",
+    "name_en": "GHOST REVIVAL",
+    "difficulty": 12,
+    "option": "M/M",
+    "note": ""
+  },
+  {
+    "name": "Grand Chariot",
+    "name_en": "Grand Chariot",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "GuNGNiR",
+    "name_en": "GuNGNiR",
+    "difficulty": 12,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "Dynamite",
+    "name_en": "Dynamite",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "Session 9 -Chronicles-",
+    "name_en": "Session 9 -Chronicles-",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": "310->322 316->328 (189/182.0)*x FHS無しで始めて連打後にセット"
+  },
+  {
+    "name": "Snakey Kung-fu",
+    "name_en": "Snakey Kung-fu",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "Shoot'Em All",
+    "name_en": "Shoot'Em All",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "THE BLACK KNIGHT",
+    "name_en": "THE BLACK KNIGHT",
+    "difficulty": 12,
+    "option": "R/-",
+    "note": ""
+  },
+  {
+    "name": "TRIUMPH",
+    "name_en": "TRIUMPH",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "Evans",
+    "name_en": "Evans",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "DIVE～INTO YOUR HEART～",
+    "name_en": "DIVE～INTO YOUR HEART～",
+    "difficulty": 10,
+    "option": "FLIP M/M",
+    "note": ""
+  },
+  {
+    "name": "G59",
+    "name_en": "G59",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "FLOWER",
+    "name_en": "FLOWER",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "Persephone",
+    "name_en": "Persephone",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "Quakes",
+    "name_en": "Quakes",
+    "difficulty": 12,
+    "option": "R/R",
+    "note": ""
+  },
+  {
+    "name": "RAIN",
+    "name_en": "RAIN",
+    "difficulty": 12,
+    "option": "R/M",
+    "note": ""
+  },
+  {
+    "name": "Xlø",
+    "name_en": "Xlø",
+    "difficulty": 12,
+    "option": "FLIP RR/RR",
+    "note": ""
+  },
+  {
+    "name": "Xperanza",
+    "name_en": "Xperanza",
+    "difficulty": 12,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "We're so Happy (P*Light Remix) IIDX ver.",
+    "name_en": "We're so Happy (P*Light Remix) IIDX ver.",
+    "difficulty": 12,
+    "option": "M/M",
+    "note": ""
+  },
+  {
+    "name": "YAKSHA",
+    "name_en": "YAKSHA",
+    "difficulty": 12,
+    "option": "FLIP -/-",
+    "note": ""
+  },
+  {
+    "name": "yellow head joe",
+    "name_en": "yellow head joe",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "刃図羅",
+    "name_en": "刃図羅",
+    "difficulty": 12,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "革命",
+    "name_en": "革命",
+    "difficulty": 12,
+    "option": "FLIP -/R",
+    "note": ""
+  },
+  {
+    "name": "Despair of ELFERIA",
+    "name_en": "Despair of ELFERIA",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "AIR RAID FROM THA UNDAGROUND†",
+    "name_en": "AIR RAID FROM THA UNDAGROUND†",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "AO-1",
+    "name_en": "AO-1",
+    "difficulty": 12,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "Blue Rain†",
+    "name_en": "Blue Rain†",
+    "difficulty": 12,
+    "option": "RR/- or R/R",
+    "note": ""
+  },
+  {
+    "name": "DOMINION",
+    "name_en": "DOMINION",
+    "difficulty": 12,
+    "option": "-/- or RR/RR",
+    "note": ""
+  },
+  {
+    "name": "Devilz Staircase",
+    "name_en": "Devilz Staircase",
+    "difficulty": 12,
+    "option": "-/M or M/R",
+    "note": ""
+  },
+  {
+    "name": "DropZ-Line-",
+    "name_en": "DropZ-Line-",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "FANTASTIC THREE",
+    "name_en": "FANTASTIC THREE",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "Go Beyond!!",
+    "name_en": "Go Beyond!!",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "era",
+    "name_en": "era",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "INSOMNIA",
+    "name_en": "INSOMNIA",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "QQQ",
+    "name_en": "QQQ",
+    "difficulty": 12,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "Summer Vacation(CU mix)",
+    "name_en": "Summer Vacation(CU mix)",
+    "difficulty": 12,
+    "option": "FLIP M/M",
+    "note": ""
+  },
+  {
+    "name": "アストライアの双皿",
+    "name_en": "アストライアの双皿",
+    "difficulty": 12,
+    "option": "FLIP R/M",
+    "note": ""
+  },
+  {
+    "name": "CHRONO DIVER -NORNIR-†",
+    "name_en": "CHRONO DIVER -NORNIR-†",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "spiral galaxy†",
+    "name_en": "spiral galaxy†",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "Ancient Scapes†",
+    "name_en": "Ancient Scapes†",
+    "difficulty": 12,
+    "option": "FLIP -/M",
+    "note": ""
+  },
+  {
+    "name": "KAISER PHOENIX†",
+    "name_en": "KAISER PHOENIX†",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  }
+]
