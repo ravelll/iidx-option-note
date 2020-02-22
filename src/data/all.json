@@ -1272,5 +1272,33 @@
     "difficulty": 12,
     "option": "-/M",
     "note": ""
+  },
+  {
+    "name": "FAKE TIME",
+    "name_en": "FAKE TIME",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": "トリルは右4-6=>1-4, 左4-6=>2-5"
+  },
+  {
+    "name": "ruin of opals",
+    "name_en": "ruin of opals",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": "緑数字を+5する"
+  },
+  {
+    "name": "めいさいアイドル☆あいむちゃん♪",
+    "name_en": "めいさいアイドル☆あいむちゃん♪",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "Afterimage d'automne",
+    "name_en": "Afterimage d'automne",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
   }
 ]
