@@ -20,17 +20,17 @@ const OptionNoteList = ({ notes }) => {
 class App extends Component {
   constructor() {
     super();
-    this.optionNotes = require("./data/all.json");
 
     this.state = {
-      displayedNotes: this.optionNotes,
+      displayedNotes: [],
+      defaultNotes: [],
       inputVal: ''
     }
   }
 
   handleChange = event => {
     const inputVal = event.target.value;
-    let filtered = this.optionNotes.filter(n => {
+    let filtered = this.state.defaultNotes.filter(n => {
       return n.name_en.toLowerCase().includes(inputVal.toLowerCase());
     });
 
@@ -39,9 +39,9 @@ class App extends Component {
     });
 
     if (exactMatchedIndex !== -1) {
-      let d = [filtered[exactMatchedIndex]];
-      filtered.splice(exactMatchedIndex, 1);
-      this.setState({ displayedNotes: d.concat(filtered) });
+      const exactMatched = filtered.splice(exactMatchedIndex, 1);
+      console.log(exactMatched);
+      this.setState({ displayedNotes: [...exactMatched, ...filtered] });
     } else {
       this.setState({ displayedNotes: filtered });
     }
@@ -49,12 +49,17 @@ class App extends Component {
     this.setState({ inputVal });
   }
 
+  componentDidMount() {
+    const notes = require("./data/all.json");
+    this.setState({ defaultNotes: notes });
+    this.setState({ displayedNotes: notes });
+  }
+
   render() {
-    const inputVal = this.state.inputVal
     return(
       <div>
         <div className="search-block">
-          <input type="url" name="inputVal" className="main-input" value={inputVal} onChange={this.handleChange} />
+          <input type="url" name="inputVal" className="main-input" value={this.state.inputVal} onChange={this.handleChange} />
         </div>
         <OptionNoteList notes={this.state.displayedNotes} />
       </div>
