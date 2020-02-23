@@ -26,16 +26,22 @@ class App extends Component {
       defaultNotes: [],
       inputVal: ''
     }
+
+    this.handleChange = this.handleChange.bind(this);
+    this.updateNote = this.updateNote.bind(this);
   }
 
-  handleChange = event => {
-    const inputVal = event.target.value;
+  handleChange(event) {
+    this.setState({ inputVal: event.target.value });
+  }
+
+  updateNote() {
     let filtered = this.state.defaultNotes.filter(n => {
-      return n.name_en.toLowerCase().includes(inputVal.toLowerCase());
+      return n.name_en.toLowerCase().includes(this.state.inputVal.toLowerCase());
     });
 
     const exactMatchedIndex = filtered.findIndex(data => {
-      return data.name_en !== "" && data.name_en.toLowerCase() === inputVal.toLowerCase();
+      return data.name_en !== "" && data.name_en.toLowerCase() === this.state.inputVal.toLowerCase();
     });
 
     if (exactMatchedIndex !== -1) {
@@ -45,8 +51,12 @@ class App extends Component {
     } else {
       this.setState({ displayedNotes: filtered });
     }
+  }
 
-    this.setState({ inputVal });
+  componentDidUpdate(_, prevState) {
+    if (this.state.inputVal !== prevState.inputVal) {
+      this.updateNote();
+    }
   }
 
   componentDidMount() {
