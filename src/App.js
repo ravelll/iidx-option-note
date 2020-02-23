@@ -58,7 +58,7 @@ const App = () => {
   return(
     <div>
       <div className="search-block">
-        <input type="url" name="inputVal" className="main-input" value={inputVal} onChange={handleChange} />
+        <input type="text" inputmode="text" name="inputVal" className="main-input" value={inputVal} onChange={handleChange} />
       </div>
       <OptionNotesList notes={displayedNotes} />
     </div>
