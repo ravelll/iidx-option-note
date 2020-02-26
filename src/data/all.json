@@ -917,13 +917,6 @@
     "note": ""
   },
   {
-    "name": "リリーゼと炎龍レーヴァテイン",
-    "name_en": "riri-zetoenryulaevatainn",
-    "difficulty": 12,
-    "option": "M/-",
-    "note": ""
-  },
-  {
     "name": "reunion",
     "name_en": "reunion",
     "difficulty": 12,
@@ -963,13 +956,6 @@
     "name_en": "KAMAITACHI LEGGENDARIA",
     "difficulty": 12,
     "option": "FLIP M/M",
-    "note": ""
-  },
-  {
-    "name": "fallen leaves",
-    "name_en": "fallen leaves",
-    "difficulty": 12,
-    "option": "-/M",
     "note": ""
   },
   {
@@ -1135,14 +1121,14 @@
   },
   {
     "name": "刃図羅",
-    "name_en": "刃図羅",
+    "name_en": "bazura",
     "difficulty": 12,
     "option": "-/-",
     "note": ""
   },
   {
     "name": "革命",
-    "name_en": "革命",
+    "name_en": "kakumei",
     "difficulty": 12,
     "option": "FLIP -/R",
     "note": ""
@@ -1240,7 +1226,7 @@
   },
   {
     "name": "アストライアの双皿",
-    "name_en": "アストライアの双皿",
+    "name_en": "Astraeanosoubei",
     "difficulty": 12,
     "option": "FLIP R/M",
     "note": ""
@@ -1289,9 +1275,16 @@
   },
   {
     "name": "めいさいアイドル☆あいむちゃん♪",
-    "name_en": "めいさいアイドル☆あいむちゃん♪",
+    "name_en": "meisaiidleaimuchan",
     "difficulty": 12,
     "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "深淵に捧ぐレクイエム",
+    "name_en": "shinennisasagurequiem",
+    "difficulty": 12,
+    "option": "-/R",
     "note": ""
   },
   {
