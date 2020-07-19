@@ -1293,5 +1293,12 @@
     "difficulty": 12,
     "option": "-/M",
     "note": ""
+  },
+  {
+    "name": "ZZ",
+    "name_en": "ZZ",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
   }
 ]
