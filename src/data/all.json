@@ -480,7 +480,7 @@
      "name_en": "A",
     "difficulty": 12,
     "option": "R/R",
-    "note": "649スタート (191/93)*x"
+    "note": "310->637 316->649 (191/93)*x"
   },
   {
      "name": "moon_child",
@@ -1292,6 +1292,34 @@
     "name_en": "Afterimage d'automne",
     "difficulty": 12,
     "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "ZZ",
+    "name_en": "ZZ",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "M4K3 1T B0UNC3",
+    "name_en": "make it bounce",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "IX",
+    "name_en": "ix",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "こっちを向いてよ",
+    "name_en": "kocchi wo muiteyo",
+    "difficulty": 11,
+    "option": "M/-",
     "note": ""
   }
 ]
