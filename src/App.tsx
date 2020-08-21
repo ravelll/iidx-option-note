@@ -68,8 +68,7 @@ const App: React.FC = () => {
     <div>
       <div className='search-block'>
         <input
-          type='text'
-          inputMode='text'
+          type='email'
           name='inputVal'
           className='main-input'
           value={inputVal}
