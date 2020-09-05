@@ -494,7 +494,7 @@
      "name_en": "TRANOID",
     "difficulty": 12,
     "option": "R/R",
-    "note": "310->341 316->347 前半終了直後皿チョン"
+    "note": "FHSなし 310->327 316->333"
   },
   {
      "name": "Concertino in Blue",
@@ -507,7 +507,7 @@
      "name": "Close the World feat.a☆ru",
      "name_en": "Close the World feat.aru",
     "difficulty": 12,
-    "option": "-/M",
+    "option": "R/R",
     "note": ""
   },
   {
@@ -946,9 +946,9 @@
   },
   {
     "name": "Todestrieb",
-    "name_en": "SWEET LAB",
+    "name_en": "Todestrieb",
     "difficulty": 12,
-    "option": "M(R?)/-",
+    "option": "M/R",
     "note": ""
   },
   {
@@ -1318,6 +1318,27 @@
   {
     "name": "entelecheia",
     "name_en": "entelecheia",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "Last Dance",
+    "name_en": "Last Dance",
+    "difficulty": 12,
+    "option": "FLIP M/-",
+    "note": ""
+  },
+  {
+    "name": "Timepiece Phase II",
+    "name_en": "Timepiece Phase II",
+    "difficulty": 12,
+    "option": "FLIP SR/R",
+    "note": ""
+  },
+  {
+    "name": "Triple Counter",
+    "name_en": "Triple Counter",
     "difficulty": 12,
     "option": "M/-",
     "note": ""
