@@ -1349,5 +1349,12 @@
     "difficulty": 10,
     "option": "R/SR",
     "note": ""
+  },
+  {
+    "name": "X↑X↓",
+    "name_en": "tenjoutenge",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
   }
 ]
