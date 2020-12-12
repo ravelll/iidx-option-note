@@ -165,7 +165,7 @@
     "name_en": "nostos",
     "difficulty": 11,
     "option": "-/-",
-    "note": "356スタート緑数字を1.125倍(310:348.75, 316:355.5)"
+    "note": "緑数字を1.125倍"
   },
   {
     "name": "OUTER LIMITS ALTERNATIVE",
@@ -473,35 +473,35 @@
      "name_en": "ongaku",
     "difficulty": 12,
     "option": "R/R",
-    "note": "310->341 316->347 産卵前に皿チョン、最後は落ち着いてSud+外す"
+    "note": "緑数字を1.098倍 産卵前に皿チョン、最後は落ち着いてSud+外す"
   },
   {
      "name": "A",
      "name_en": "A",
     "difficulty": 12,
     "option": "R/R",
-    "note": "310->637 316->649 (191/93)*x"
+    "note": "(191/93)*x 307->630 313->643"
   },
   {
      "name": "moon_child",
      "name_en": "moon_child",
     "difficulty": 12,
     "option": "FLIP R/R",
-    "note": "310->340 316->346 (160/146.0)*x"
+    "note": "(160/146.0)*x 310->340 316->346"
   },
   {
      "name": "TRANOID",
      "name_en": "TRANOID",
     "difficulty": 12,
     "option": "R/R",
-    "note": "FHSなし 310->327 316->333"
+    "note": "(190/180)*x 310->327 316->333"
   },
   {
      "name": "Concertino in Blue",
      "name_en": "Concertino in Blue",
     "difficulty": 12,
     "option": "M/-",
-    "note": "310->340 316->350 (155.0/140)*x"
+    "note": "(155.0/140)*x 310->340 316->350"
   },
   {
      "name": "Close the World feat.a☆ru",
@@ -941,7 +941,7 @@
     "name": "SWEET LAB",
     "name_en": "SWEET LAB",
     "difficulty": 12,
-    "option": "M/-",
+    "option": "M/SR",
     "note": ""
   },
   {
@@ -1005,7 +1005,7 @@
     "name_en": "Session 9 -Chronicles-",
     "difficulty": 12,
     "option": "-/M",
-    "note": "310->322 316->328 (189/182.0)*x FHS無しで始めて連打後にセット"
+    "note": "(189/182.0)*x 310->322 316->328 FHS無しで始めて連打後にセット"
   },
   {
     "name": "Snakey Kung-fu",
@@ -1355,6 +1355,55 @@
     "name_en": "tenjoutenge",
     "difficulty": 12,
     "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "Be OK",
+    "name_en": "be ok",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "Devil's Gear",
+    "name_en": "devil's gear",
+    "difficulty": 12,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "DIAVOLO",
+    "name_en": "diavolo",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "VANESSA",
+    "name_en": "vanessa",
+    "difficulty": 12,
+    "option": "R/SR",
+    "note": ""
+  },
+  {
+    "name": "焔極OVERKILL",
+    "name_en": "engokuoverkill",
+    "difficulty": 12,
+    "option": "RR/M",
+    "note": ""
+  },
+  {
+    "name": "satellite020712 from \"CODED ARMS\"",
+    "name_en": "satellite020712 from coded arms",
+    "difficulty": 12,
+    "option": "FLIP M/RR",
+    "note": ""
+  },
+  {
+    "name": "satellite020712 from \"CODED ARMS\"",
+    "name_en": "satellite020712 from coded arms",
+    "difficulty": 12,
+    "option": "FLIP M/RR",
     "note": ""
   }
 ]
