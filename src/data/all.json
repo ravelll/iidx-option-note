@@ -1347,7 +1347,7 @@
     "name": "Blueberry Stream",
     "name_en": "Blueberry Stream",
     "difficulty": 10,
-    "option": "R/SR",
+    "option": "FLIP SR/R",
     "note": ""
   },
   {
@@ -1403,6 +1403,13 @@
     "name": "Sphere",
     "name_en": "sphere",
     "difficulty": 12,
+    "option": "SR/M",
+    "note": ""
+  },
+  {
+    "name": "Castle on the Moon",
+    "name_en": "Castle on the Moon",
+    "difficulty": 11,
     "option": "SR/M",
     "note": ""
   }
