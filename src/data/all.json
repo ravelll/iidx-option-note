@@ -1405,5 +1405,12 @@
     "difficulty": 12,
     "option": "FLIP M/RR",
     "note": ""
+  },
+  {
+    "name": "Sphere",
+    "name_en": "sphere",
+    "difficulty": 12,
+    "option": "SR/M",
+    "note": ""
   }
 ]
