@@ -871,7 +871,7 @@
     "name": "海神",
     "name_en": "Wadatsumi",
     "difficulty": 12,
-    "option": "M/-",
+    "option": "-/M",
     "note": ""
   },
   {
@@ -1408,9 +1408,30 @@
   },
   {
     "name": "Castle on the Moon",
-    "name_en": "Castle on the Moon",
+    "name_en": "castle on the moon",
     "difficulty": 11,
     "option": "SR/M",
+    "note": ""
+  },
+  {
+    "name": "キャトられ♥恋はモ～モク",
+    "name_en": "kyatorare koihamo-moku",
+    "difficulty": 12,
+    "option": "R/R",
+    "note": ""
+  },
+  {
+    "name": "cinder",
+    "name_en": "cinder",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "Plan 8",
+    "name_en": "plan 8",
+    "difficulty": 12,
+    "option": "FLIP M/-",
     "note": ""
   }
 ]
