@@ -24,7 +24,8 @@
     "eslint-plugin-prettier": "^3.2.0",
     "eslint-plugin-react": "^7.21.5",
     "eslint-plugin-react-hooks": "^4.2.0",
-    "prettier": "^2.2.1"
+    "prettier": "^2.2.1",
+    "ts-node": "^9.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -32,7 +33,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint --ext js,jsx,ts,tsx src",
-    "lint:fix": "eslint --ext js,jsx,ts,tsx src --fix"
+    "lint:fix": "eslint --ext js,jsx,ts,tsx src --fix",
+    "validate": "ts-node src/checkDuplicatedEntry.ts"
   },
   "eslintConfig": {
     "extends": "react-app"
