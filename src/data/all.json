@@ -655,7 +655,7 @@
     "name_en": "Fascination MAXX",
     "difficulty": 12,
     "option": "M/-",
-    "note": ""
+    "note": "FHSでHS3.95に合わせてBPM400で皿チョン、以降ボタン2個で調整"
   },
   {
     "name": "†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)",
@@ -1109,7 +1109,7 @@
     "name": "YAKSHA",
     "name_en": "YAKSHA",
     "difficulty": 12,
-    "option": "FLIP -/-",
+    "option": "FLIP M/-",
     "note": ""
   },
   {
