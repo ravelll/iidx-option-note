@@ -1,3 +1,3 @@
-https://exit-iidx-option-note.netlify.com
+https://iidx-option-note.vercel.app
 
-A personal note about beatmaniaIIDX double play.
+Personal note of beatmaniaIIDX double play.
