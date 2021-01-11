@@ -1452,7 +1452,14 @@
     "name": "TOXIC VIBRATION",
     "name_en": "toxic vibration",
     "difficulty": 12,
-    "option": "-/M",
+    "option": "M/RR",
+    "note": ""
+  },
+  {
+    "name": "神謳 -RESONANCE-",
+    "name_en": "shino -resonance-",
+    "difficulty": 12,
+    "option": "M/-",
     "note": ""
   }
 ]
