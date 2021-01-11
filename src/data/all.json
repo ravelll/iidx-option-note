@@ -1433,5 +1433,26 @@
     "difficulty": 12,
     "option": "FLIP M/-",
     "note": ""
+  },
+  {
+    "name": "ICARUS",
+    "name_en": "icarus",
+    "difficulty": 12,
+    "option": "FLIP R/R",
+    "note": "FHSなし 低速はボタン1つ分HS下げる"
+  },
+  {
+    "name": "駅猫のワルツ",
+    "name_en": "ekineko no waltz",
+    "difficulty": 12,
+    "option": "M/RR",
+    "note": ""
+  },
+  {
+    "name": "TOXIC VIBRATION",
+    "name_en": "toxic vibration",
+    "difficulty": 12,
+    "option": "-/M",
+    "note": ""
   }
 ]
