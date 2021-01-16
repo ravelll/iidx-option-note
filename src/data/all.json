@@ -1461,5 +1461,12 @@
     "difficulty": 12,
     "option": "M/-",
     "note": ""
+  },
+  {
+    "name": "Ganymede",
+    "name_en": "ganymede",
+    "difficulty": 12,
+    "option": "R/SR",
+    "note": ""
   }
 ]
