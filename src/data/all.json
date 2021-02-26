@@ -1468,5 +1468,12 @@
     "difficulty": 12,
     "option": "R/SR",
     "note": ""
+  },
+  {
+    "name": "Go Ahead!!",
+    "name_en": "go ahead!!",
+    "difficulty": 12,
+    "option": "FLIP M/-",
+    "note": ""
   }
 ]
