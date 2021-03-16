@@ -1,5 +1,7 @@
 import React, { useState, useEffect, ChangeEvent } from 'react'
+import { Input } from 'antd'
 import OptionNoteData from './data/all.json'
+import 'antd/dist/antd.css'
 import './App.css'
 
 interface OptionNote {
@@ -67,12 +69,11 @@ const App: React.FC = () => {
   return (
     <div>
       <div className='search-block'>
-        <input
-          type='email'
-          name='inputVal'
-          className='main-input'
+        <Input
+          allowClear
           value={inputVal}
           onChange={handleChange}
+          className='main-input'
         />
       </div>
       <OptionNoteList optionNotes={displayedNotes} />
