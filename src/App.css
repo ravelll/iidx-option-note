@@ -3,9 +3,9 @@
 }
 
 .main-input {
-  width: 100%;
-  height: 2rem;
-  max-width: 30rem;
+  width: 90%;
+  height: 1.5rem;
+  max-width: 20rem;
   font-size: 1rem;
   border: 1px solid;
   border-color: #ebecec;
