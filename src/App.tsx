@@ -73,6 +73,7 @@ const App: React.FC = () => {
           allowClear
           value={inputVal}
           onChange={handleChange}
+          size='large'
           className='main-input'
         />
       </div>
