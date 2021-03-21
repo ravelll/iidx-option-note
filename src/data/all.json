@@ -24,7 +24,7 @@
     "name": "Aurora",
     "name_en": "Aurora",
     "difficulty": 11,
-    "option": "M/M",
+    "option": "R/R",
     "note": ""
   },
   {
@@ -542,8 +542,8 @@
     "name": "Bad Manics",
     "name_en": "Bad Manics",
     "difficulty": 12,
-    "option": "-/M",
-    "note": ""
+    "option": "RR/M",
+    "note": "FLIP の方がいいかも？"
   },
   {
     "name": "HAERETICUS",
@@ -584,7 +584,7 @@
     "name": "Elemental Creation",
     "name_en": "Elemental Creation",
     "difficulty": 12,
-    "option": "-/-",
+    "option": "R/R",
     "note": ""
   },
   {
@@ -682,14 +682,14 @@
     "name": "FUZIN RAIZIN",
     "name_en": "FUZIN RAIZIN",
     "difficulty": 12,
-    "option": "M/M",
+    "option": "R/R",
     "note": ""
   },
   {
     "name": "〆",
     "name_en": "shime",
     "difficulty": 12,
-    "option": "-/M",
+    "option": "R/M",
     "note": ""
   },
   {
@@ -710,7 +710,7 @@
     "name": "火影",
     "name_en": "Hikage",
     "difficulty": 12,
-    "option": "FLIP -/-",
+    "option": "FLIP SR/M",
     "note": ""
   },
   {
@@ -899,7 +899,7 @@
     "name": "カジノファイヤーことみちゃん",
     "name_en": "casino fire kotomichan",
     "difficulty": 12,
-    "option": "FLIP -/RR",
+    "option": "FLIP RR/RR",
     "note": ""
   },
   {
@@ -1226,28 +1226,28 @@
   },
   {
     "name": "CHRONO DIVER -NORNIR-†",
-    "name_en": "CHRONO DIVER -NORNIR-†",
+    "name_en": "CHRONO DIVER -NORNIR- leggendaria",
     "difficulty": 12,
     "option": "-/M",
     "note": ""
   },
   {
     "name": "spiral galaxy†",
-    "name_en": "spiral galaxy†",
+    "name_en": "spiral galaxy leggendaria",
     "difficulty": 12,
     "option": "-/M",
     "note": ""
   },
   {
     "name": "Ancient Scapes†",
-    "name_en": "Ancient Scapes†",
+    "name_en": "Ancient Scapes leggendaria",
     "difficulty": 12,
     "option": "FLIP -/M",
     "note": ""
   },
   {
     "name": "KAISER PHOENIX†",
-    "name_en": "KAISER PHOENIX†",
+    "name_en": "KAISER PHOENIX leggendaria",
     "difficulty": 12,
     "option": "-/M",
     "note": ""
@@ -1474,6 +1474,41 @@
     "name_en": "go ahead!!",
     "difficulty": 12,
     "option": "FLIP M/-",
+    "note": ""
+  },
+  {
+    "name": "GALGALIM",
+    "name_en": "galgalim",
+    "difficulty": 12,
+    "option": "M/M",
+    "note": ""
+  },
+  {
+    "name": "8bit Princess",
+    "name_en": "8bit princess",
+    "difficulty": 10,
+    "option": "FLIP SR/R",
+    "note": ""
+  },
+  {
+    "name": "罪と罰",
+    "name_en": "tsumitobatsu",
+    "difficulty": 10,
+    "option": "R/SR",
+    "note": ""
+  },
+  {
+    "name": "MAGIC & LOVE",
+    "name_en": "magic and love",
+    "difficulty": 11,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "Reflux",
+    "name_en": "reflux",
+    "difficulty": 12,
+    "option": "-/-",
     "note": ""
   }
 ]
