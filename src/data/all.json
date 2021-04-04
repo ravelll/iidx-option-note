@@ -136,7 +136,14 @@
     "name": "m1dy Deluxe",
     "name_en": "m1dy Deluxe",
     "difficulty": 11,
-    "option": "SR/R",
+    "option": "R/R",
+    "note": ""
+  },
+  {
+    "name": "m1dy Dynamic",
+    "name_en": "m1dy Dynamic",
+    "difficulty": 11,
+    "option": "RR/RR",
     "note": ""
   },
   {
@@ -353,8 +360,8 @@
     "name": "Symmetry",
     "name_en": "Symmetry",
     "difficulty": 11,
-    "option": "-/-",
-    "note": "前半で左2->46->7の繰り返しがあるので46を人親で取ると便利"
+    "option": "M/-",
+    "note": ""
   },
   {
     "name": "Temple of Anubis",
@@ -661,7 +668,7 @@
     "name": "†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)",
     "name_en": "nagisanokoakuma lovely radio",
     "difficulty": 12,
-    "option": "FLIP -/RR",
+    "option": "FLIP R/R",
     "note": ""
   },
   {
@@ -682,7 +689,7 @@
     "name": "FUZIN RAIZIN",
     "name_en": "FUZIN RAIZIN",
     "difficulty": 12,
-    "option": "R/R",
+    "option": "RR/R",
     "note": ""
   },
   {
@@ -805,6 +812,13 @@
     "note": ""
   },
   {
+    "name": "Sigmund",
+    "name_en": "Sigmund",
+    "difficulty": 12,
+    "option": "FLIP R/R",
+    "note": ""
+  },
+  {
     "name": "Sigmund†LEGGENDARIA",
     "name_en": "Sigmund LEGGENDARIA",
     "difficulty": 12,
@@ -871,7 +885,7 @@
     "name": "海神",
     "name_en": "Wadatsumi",
     "difficulty": 12,
-    "option": "-/M",
+    "option": "R/R",
     "note": ""
   },
   {
@@ -997,7 +1011,7 @@
     "name": "Dynamite",
     "name_en": "Dynamite",
     "difficulty": 12,
-    "option": "-/M",
+    "option": "M/M",
     "note": ""
   },
   {
@@ -1025,7 +1039,7 @@
     "name": "THE BLACK KNIGHT",
     "name_en": "THE BLACK KNIGHT",
     "difficulty": 12,
-    "option": "R/-",
+    "option": "R/R",
     "note": ""
   },
   {
@@ -1305,7 +1319,7 @@
     "name": "IX",
     "name_en": "ix",
     "difficulty": 12,
-    "option": "M/-",
+    "option": "FLIP M/-",
     "note": ""
   },
   {
@@ -1510,5 +1524,47 @@
     "difficulty": 12,
     "option": "-/-",
     "note": ""
+  },
+  {
+    "name": "BRAINSTORM",
+    "name_en": "brainstorm",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "AA",
+    "name_en": "aa",
+    "difficulty": 12,
+    "option": "FLIP M/R",
+    "note": ""
+  },
+  {
+    "name": "たまゆら",
+    "name_en": "tamayura",
+    "difficulty": 12,
+    "option": "-/R",
+    "note": ""
+  },
+  {
+    "name": "電人、暁に斃れる。",
+    "name_en": "denjin akatsukinitaoreru",
+    "difficulty": 12,
+    "option": "FLIP R/M",
+    "note": ""
+  },
+  {
+    "name": "thunder",
+    "name_en": "thunder",
+    "difficulty": 11,
+    "option": "FLIP M/M",
+    "note": ""
+  },
+  {
+    "name": "StrayedCatz",
+    "name_en": "strayedcatz",
+    "difficulty": 12,
+    "option": "R/R",
+    "note": "安定を取るなら -/R"
   }
 ]
