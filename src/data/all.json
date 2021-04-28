@@ -875,6 +875,13 @@
     "note": ""
   },
   {
+    "name": "灼熱Beach Side Bunny",
+    "name_en": "Shakunetsu Beach Side Bunny",
+    "difficulty": 12,
+    "option": "SR/R",
+    "note": ""
+  },
+  {
     "name": "灼熱 Pt.2 Long Train Running",
     "name_en": "Shakunetsu Pt.2 Long Train Running",
     "difficulty": 12,
@@ -1566,5 +1573,26 @@
     "difficulty": 12,
     "option": "R/R",
     "note": "安定を取るなら -/R"
+  },
+  {
+    "name": "Illusionary Waterlily",
+    "name_en": "illusionary waterlily",
+    "difficulty": 12,
+    "option": "FLIP M/M",
+    "note": ""
+  },
+  {
+    "name": "Highcharge Divolt",
+    "name_en": "Highcharge Divolt",
+    "difficulty": 12,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "ALBIDA",
+    "name_en": "ALBIDA",
+    "difficulty": 11,
+    "option": "M/M",
+    "note": ""
   }
 ]
