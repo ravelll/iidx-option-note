@@ -1629,5 +1629,12 @@
     "difficulty": 12,
     "option": "SR/SR",
     "note": "緑数字を倍にして、黒鍵何回かで適当な緑数字になるよう白数字調整してスタート。早くなる前に平常時の白数字に戻しつつ FHS で緑数字を初期値に戻す"
+  },
+  {
+    "name": "The Chase",
+    "name_en": "The Chase",
+    "difficulty": 12,
+    "option": "FLIP SR/SR",
+    "note": ""
   }
 ]
