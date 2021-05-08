@@ -1636,5 +1636,26 @@
     "difficulty": 12,
     "option": "FLIP SR/SR",
     "note": ""
+  },
+  {
+    "name": "199024club -Re:BounceKiller-",
+    "name_en": "199024club -Re:BounceKiller-",
+    "difficulty": 12,
+    "option": "FLIP M/M",
+    "note": ""
+  },
+  {
+    "name": "Kailua",
+    "name_en": "Kailua",
+    "difficulty": 12,
+    "option": "SR/M",
+    "note": ""
+  },
+  {
+    "name": "HADES",
+    "name_en": "HADES",
+    "difficulty": 12,
+    "option": "FLIP -/RR",
+    "note": ""
   }
 ]
