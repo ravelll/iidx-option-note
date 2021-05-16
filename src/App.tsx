@@ -34,9 +34,8 @@ const OptionNoteList: React.FC<Prop> = ({ optionNotes }) => {
 
 const App: React.FC = () => {
   const [inputVal, setInputVal] = useState<string>('')
-  const [displayedNotes, setDisplayedNotes] = useState<OptionNote[]>(
-    OptionNoteData
-  )
+  const [displayedNotes, setDisplayedNotes] =
+    useState<OptionNote[]>(OptionNoteData)
 
   useEffect(() => {
     const updateNotes = () => {
