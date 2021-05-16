@@ -108,7 +108,7 @@
     "name": "Let The Track Flow",
     "name_en": "Let The Track Flow",
     "difficulty": 11,
-    "option": "FLIP M/M",
+    "option": "RR/RR",
     "note": ""
   },
   {
@@ -480,7 +480,7 @@
      "name_en": "ongaku",
     "difficulty": 12,
     "option": "R/R",
-    "note": "緑数字を1.098倍 産卵前に皿チョン、最後は落ち着いてSud+外す"
+    "note": "緑数字を1.098倍 産卵前に皿チョン、高速前に白1個"
   },
   {
      "name": "A",
@@ -494,21 +494,21 @@
      "name_en": "moon_child",
     "difficulty": 12,
     "option": "FLIP R/R",
-    "note": "(160/146.0)*x 310->340 316->346"
+    "note": "(160/146.0)*x 275->301 279->305"
   },
   {
      "name": "TRANOID",
      "name_en": "TRANOID",
     "difficulty": 12,
     "option": "R/R",
-    "note": "(190/180)*x 310->327 316->333"
+    "note": "(190/180)*x 275->290 279->294"
   },
   {
      "name": "Concertino in Blue",
      "name_en": "Concertino in Blue",
     "difficulty": 12,
     "option": "M/-",
-    "note": "(155.0/140)*x 310->340 316->350"
+    "note": "(155.0/140)*x 275->304 279->308"
   },
   {
      "name": "Close the World feat.a☆ru",
@@ -1026,7 +1026,7 @@
     "name_en": "Session 9 -Chronicles-",
     "difficulty": 12,
     "option": "-/M",
-    "note": "(189/182.0)*x 310->322 316->328 FHS無しで始めて連打後にセット"
+    "note": "(189/182.0)*x 275->285 279->289 FHS無しで始めて連打後にセット"
   },
   {
     "name": "Snakey Kung-fu",
