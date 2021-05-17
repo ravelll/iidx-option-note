@@ -1657,5 +1657,19 @@
     "difficulty": 12,
     "option": "FLIP -/RR",
     "note": ""
+  },
+  {
+    "name": "Rock It",
+    "name_en": "Rock It",
+    "difficulty": 11,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "DEEP ROAR",
+    "name_en": "DEEP ROAR",
+    "difficulty": 9,
+    "option": "SR/-",
+    "note": ""
   }
 ]
