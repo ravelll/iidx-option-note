@@ -1671,5 +1671,12 @@
     "difficulty": 9,
     "option": "SR/-",
     "note": ""
+  },
+  {
+    "name": "Catch Our Fire!",
+    "name_en": "Catch Our Fire!",
+    "difficulty": 12,
+    "option": "-/-",
+    "note": ""
   }
 ]
