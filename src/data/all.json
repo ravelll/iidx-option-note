@@ -1678,5 +1678,26 @@
     "difficulty": 12,
     "option": "-/-",
     "note": ""
+  },
+  {
+    "name": "22DUNK(H)",
+    "name_en": "22DUNK(H)",
+    "difficulty": 5,
+    "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "22DUNK(A)",
+    "name_en": "22DUNK(A)",
+    "difficulty": 5,
+    "option": "FLIP SR/M",
+    "note": ""
+  },
+  {
+    "name": "Arabian Rave Night",
+    "name_en": "Arabian Rave Night",
+    "difficulty": 11,
+    "option": "M/M",
+    "note": ""
   }
 ]
