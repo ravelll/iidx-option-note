@@ -1,10 +1,10 @@
-import React, { useState, useEffect, ChangeEvent } from 'react'
+import { useState, useEffect, ChangeEvent } from 'react'
 import { Input } from 'antd'
-import OptionNoteData from './data/all.json'
+import * as fs from 'fs'
+import * as path from 'path'
 import 'antd/dist/antd.css'
-import './App.css'
 
-interface OptionNote {
+type OptionNote = {
   name: string
   name_en: string
   difficulty: number
@@ -12,11 +12,26 @@ interface OptionNote {
   note: string
 }
 
-interface Prop {
+export const getStaticProps = () => {
+  const postsDirectory = path.join(process.cwd(), 'posts')
+  const optionNoteData = JSON.parse(
+    fs.readFileSync(
+      path.join(process.cwd(), 'data/options.json'),
+      'utf8'
+    )
+  )
+  return {
+    props: {
+      optionNoteData
+    }
+  }
+}
+
+type OptionNoteListProp = {
   optionNotes: OptionNote[]
 }
 
-const OptionNoteList: React.FC<Prop> = ({ optionNotes }) => {
+const OptionNoteList: React.FC<OptionNoteListProp> = ({ optionNotes }) => {
   const list = optionNotes.map((n: OptionNote, i: number) => {
     return (
       <div className='data-block' key={n.name}>
@@ -32,14 +47,18 @@ const OptionNoteList: React.FC<Prop> = ({ optionNotes }) => {
   return <div className='data-container'>{list}</div>
 }
 
-const App: React.FC = () => {
+type AppProps = {
+  optionNoteData: OptionNote[]
+}
+
+const App = ({ optionNoteData }) => {
   const [inputVal, setInputVal] = useState<string>('')
   const [displayedNotes, setDisplayedNotes] =
-    useState<OptionNote[]>(OptionNoteData)
+    useState(optionNoteData)
 
   useEffect(() => {
     const updateNotes = () => {
-      const filtered = OptionNoteData.filter((n) => {
+      const filtered = optionNoteData.filter((n) => {
         return n.name_en.toLowerCase().includes(inputVal.toLowerCase())
       })
 
