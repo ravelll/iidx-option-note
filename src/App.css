@@ -1,0 +1,25 @@
+.search-block {
+  padding-top: 1rem;
+}
+
+.main-input {
+  width: 90%;
+  height: 2rem;
+  max-width: 30rem;
+  border: 1px solid;
+  border-color: #ebecec;
+  border-radius: 5px;
+}
+
+.data-block {
+  border-bottom: 1px solid;
+  border-color: #d6d8da;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.main-column {
+  font-size: 1.4rem;
+  color: #000;
+}
+

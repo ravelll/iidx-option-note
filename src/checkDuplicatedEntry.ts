@@ -9,7 +9,7 @@ type OptionNoteEntry = {
 }
 
 const optionNoteEntries: OptionNoteEntry[] = JSON.parse(
-  readFileSync('./data/options.json', 'utf-8')
+  readFileSync('./src/data/all.json', 'utf-8')
 )
 
 const hasDuplicatedEntry = (optionNoteEntries: OptionNoteEntry[]): boolean => {

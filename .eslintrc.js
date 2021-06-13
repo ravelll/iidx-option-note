@@ -8,7 +8,6 @@ module.exports = {
     'plugin:react/recommended',
     'plugin:react-hooks/recommended',
     'plugin:jsx-a11y/recommended',
-    'next',
     'react-app',
     'prettier',
     'prettier/react',
