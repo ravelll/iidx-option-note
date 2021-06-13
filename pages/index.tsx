@@ -3,7 +3,6 @@ import { Input } from 'antd'
 import * as fs from 'fs'
 import * as path from 'path'
 import 'antd/dist/antd.css'
-import Head from 'next/head'
 
 type OptionNote = {
   name: string
@@ -87,9 +86,6 @@ const App = ({ optionNoteData }) => {
 
   return (
     <div>
-      <Head>
-        <title>IIDX DP Option Note</title>
-      </Head>
       <div className='search-block'>
         <Input
           allowClear
