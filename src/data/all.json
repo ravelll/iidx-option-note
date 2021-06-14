@@ -1699,5 +1699,12 @@
     "difficulty": 11,
     "option": "M/M",
     "note": ""
+  },
+  {
+    "name": "Raspberry Railgun",
+    "name_en": "Raspberry Railgun",
+    "difficulty": 12,
+    "option": "-/R",
+    "note": ""
   }
 ]
