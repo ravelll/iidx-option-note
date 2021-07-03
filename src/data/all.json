@@ -1706,5 +1706,12 @@
     "difficulty": 12,
     "option": "-/R",
     "note": ""
+  },
+  {
+    "name": "Realize Maze",
+    "name_en": "Realize Maze",
+    "difficulty": 11,
+    "option": "-/M",
+    "note": ""
   }
 ]
