@@ -53,7 +53,7 @@
     "name_en": "Beat Juggling Mix",
     "difficulty": 11,
     "option": "M/M",
-    "note": "最初の曲調が変わったあとに皿チョン(次の曲が始まる手前でよい)。中盤のゆるゆる遅くなる箇所でなり始めた瞬間皿チョン"
+    "note": "最初の曲調が変わったあとに皿チョン(次の曲が始まる手前でよい)。中盤加速直後に更に皿チョン"
   },
   {
     "name": "Bounce Bounce Bounce",
@@ -67,7 +67,7 @@
     "name_en": "D",
     "difficulty": 11,
     "option": "R/R",
-    "note": "普通に開始で加速時白2回、後半青1回"
+    "note": "普通に開始で加速時白2回、後半は CN 押しつつ Sud+ 解除、CN 離した瞬間 Sud+ つけて FHS 調整"
   },
   {
     "name": "Donky Donk",
@@ -662,7 +662,7 @@
     "name_en": "Fascination MAXX",
     "difficulty": 12,
     "option": "M/-",
-    "note": "FHSでHS3.95に合わせてBPM400で皿チョン、以降ボタン2個で調整"
+    "note": "FHSでHS3.95になるようSud+調節してBPM400で皿チョン、以降ボタン2個で調整"
   },
   {
     "name": "†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)",
@@ -696,14 +696,14 @@
     "name": "〆",
     "name_en": "shime",
     "difficulty": 12,
-    "option": "R/M",
+    "option": "RR/-",
     "note": ""
   },
   {
     "name": "Caterpillar",
     "name_en": "Caterpillar",
     "difficulty": 12,
-    "option": "-/M",
+    "option": "R/R",
     "note": ""
   },
   {
@@ -731,7 +731,7 @@
     "name": "SKY HIGH",
     "name_en": "SKY HIGH",
     "difficulty": 12,
-    "option": "M/-",
+    "option": "R/R",
     "note": ""
   },
   {
@@ -941,8 +941,8 @@
     "name": "reunion",
     "name_en": "reunion",
     "difficulty": 12,
-    "option": "-/M",
-    "note": "安定を取るなら"
+    "option": "R/R",
+    "note": "安定を取るなら-/M"
   },
   {
     "name": "rumrum triplets",
@@ -1207,7 +1207,7 @@
     "name": "Go Beyond!!",
     "name_en": "Go Beyond!!",
     "difficulty": 12,
-    "option": "M/-",
+    "option": "R/R or M/-",
     "note": ""
   },
   {
@@ -1221,7 +1221,7 @@
     "name": "INSOMNIA",
     "name_en": "INSOMNIA",
     "difficulty": 12,
-    "option": "-/M",
+    "option": "R/R or -/M",
     "note": ""
   },
   {
@@ -1466,7 +1466,7 @@
     "name": "駅猫のワルツ",
     "name_en": "ekineko no waltz",
     "difficulty": 12,
-    "option": "M/RR",
+    "option": "RR/RR or M/RR",
     "note": ""
   },
   {
@@ -1620,7 +1620,7 @@
     "name": "NNRT",
     "name_en": "NNRT",
     "difficulty": 12,
-    "option": "-/M",
+    "option": "R/R",
     "note": ""
   },
   {
@@ -1628,7 +1628,7 @@
     "name_en": "eRAseRmOToRpHAntOM",
     "difficulty": 12,
     "option": "SR/SR",
-    "note": "緑数字を倍にして、黒鍵何回かで適当な緑数字になるよう白数字調整してスタート。早くなる前に平常時の白数字に戻しつつ FHS で緑数字を初期値に戻す"
+    "note": "緑数字を倍にして、黒鍵何回かで適当な緑数字になるよう白数字調整してスタート、直後に黒鍵で緑数字合わせる。加速前に平常時の白数字付近に戻るよう FHS 調整で皿回す"
   },
   {
     "name": "The Chase",
@@ -1648,7 +1648,7 @@
     "name": "Kailua",
     "name_en": "Kailua",
     "difficulty": 12,
-    "option": "SR/M",
+    "option": "-/M",
     "note": ""
   },
   {
@@ -1712,6 +1712,20 @@
     "name_en": "Realize Maze",
     "difficulty": 11,
     "option": "-/M",
+    "note": ""
+  },
+  {
+    "name": "sakura storm",
+    "name_en": "sakura storm",
+    "difficulty": 12,
+    "option": "FLIP R/R",
+    "note": ""
+  },
+  {
+    "name": "Godspeed",
+    "name_en": "Godspeed",
+    "difficulty": 12,
+    "option": "-/-",
     "note": ""
   }
 ]
