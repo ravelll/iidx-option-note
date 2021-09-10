@@ -648,7 +648,7 @@
     "name_en": "ICARUS LEGGENDARIA",
     "difficulty": 12,
     "option": "FLIP M/M",
-    "note": ""
+    "note": "FHS使用。低速入りでボタン1つ分HS上げて途中で2つ下げる"
   },
   {
     "name": "JOMANDA",
@@ -1460,7 +1460,7 @@
     "name_en": "icarus",
     "difficulty": 12,
     "option": "FLIP R/R",
-    "note": "FHSなし 低速はボタン1つ分HS下げる"
+    "note": "FHS使用。低速入りでボタン1つ分HS上げて途中で2つ下げる"
   },
   {
     "name": "駅猫のワルツ",
@@ -1727,5 +1727,12 @@
     "difficulty": 12,
     "option": "-/-",
     "note": ""
+  },
+  {
+    "name": "PARANOiA ~HADES~",
+    "name_en": "PARANOiA ~HADES~",
+    "difficulty": 12,
+    "option": "R/R or M/-",
+    "note": "FHS使用。HS1.5になるようSud+調節しておく。BPM75入りで黒鍵4回、BPM150入ってﾃﾞﾃﾞﾃﾞﾝを叩いたら白鍵1回、BPM300入る前に白鍵3回"
   }
 ]
