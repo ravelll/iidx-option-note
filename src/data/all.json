@@ -242,7 +242,7 @@
     "name_en": "Sarutobi Champion is Sessha",
     "difficulty": 11,
     "option": "-/-",
-    "note": "速くなった瞬間急いで変える"
+    "note": "FHS無し。白鍵5回で加速前後の緑数字が合うように白数字調整しておく"
   },
   {
     "name": "SAY BAY",
@@ -1734,5 +1734,12 @@
     "difficulty": 12,
     "option": "R/R or M/-",
     "note": "FHS使用。HS1.5になるようSud+調節しておく。BPM75入りで黒鍵4回、BPM150入ってﾃﾞﾃﾞﾃﾞﾝを叩いたら白鍵1回、BPM300入る前に白鍵3回"
+  },
+  {
+    "name": "Rampage",
+    "name_en": "Rampage",
+    "difficulty": 12,
+    "option": "FLIP M/-",
+    "note": ""
   }
 ]
