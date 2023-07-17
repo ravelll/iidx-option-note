@@ -19,7 +19,7 @@ interface Prop {
 const OptionNoteList: React.FC<Prop> = ({ optionNotes }) => {
   const list = optionNotes.map((n: OptionNote, i: number) => {
     return (
-      <div className='data-block' key={n.name}>
+      <div className='data-item' key={n.name}>
         <div className='main-column'>{n.name}</div>
         <div className='sub-column'>OPTION: {n.option}</div>
         {n.note !== '' && (
@@ -62,6 +62,7 @@ const App: React.FC = () => {
   }, [inputVal])
 
   const handleChange = (e: ChangeEvent<HTMLInputElement>) => {
+    window.scrollTo(0, 0)
     setInputVal(e.target.value)
   }
 
@@ -76,7 +77,9 @@ const App: React.FC = () => {
           className='main-input'
         />
       </div>
-      <OptionNoteList optionNotes={displayedNotes} />
+      <div className='data-block'>
+        <OptionNoteList optionNotes={displayedNotes} />
+      </div>
     </div>
   )
 }

@@ -1741,5 +1741,12 @@
     "difficulty": 12,
     "option": "FLIP M/-",
     "note": ""
+  },
+  {
+    "name": "禊",
+    "name_en": "misogi",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
   }
 ]

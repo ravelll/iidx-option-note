@@ -1,5 +1,9 @@
 .search-block {
   padding-top: 1rem;
+  position: fixed;
+  height: 50px;
+  width: 100%;
+  background: #fff;
 }
 
 .main-input {
@@ -12,6 +16,10 @@
 }
 
 .data-block {
+  padding-top: 50px;
+}
+
+.data-item {
   border-bottom: 1px solid;
   border-color: #d6d8da;
   padding-top: 0.5rem;
