@@ -1,8 +1,7 @@
 module.exports = {
   env: {
     browser: true,
-    es6: true,
-    node: true,
+    es2021: true,
   },
   extends: [
     'plugin:react/recommended',
@@ -10,8 +9,6 @@ module.exports = {
     'plugin:jsx-a11y/recommended',
     'react-app',
     'prettier',
-    'prettier/react',
-    'prettier/standard',
   ],
   globals: {
     Atomics: 'readonly',
@@ -22,10 +19,10 @@ module.exports = {
     ecmaFeatures: {
       jsx: true,
     },
-    ecmaVersion: 2018,
+    ecmaVersion: 'latest',
     sourceType: 'module',
   },
-  plugins: ['react', 'prettier'],
+  plugins: ['@typescript-eslint', 'react', 'prettier'],
   rules: {
     camelcase: 'off',
     '@typescript-eslint/camelcase': 'off',
