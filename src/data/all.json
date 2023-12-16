@@ -67,7 +67,7 @@
     "name_en": "D",
     "difficulty": 11,
     "option": "R/R",
-    "note": "普通に開始で加速時白2回、後半は CN 押しつつ Sud+ 解除、CN 離した瞬間 Sud+ つけて FHS 調整"
+    "note": "普通に開始で加速時白3回、CN抜けで皿チョン。終盤もCN抜けで皿チョン"
   },
   {
     "name": "Donky Donk",
@@ -88,7 +88,7 @@
     "name_en": "GRADIUS -FULL SPEED-",
     "difficulty": 11,
     "option": "FLIP R/SR",
-    "note": "白1回->青1回->白1回"
+    "note": "高速合わせの緑数字で例のテクニックでHS調整、BPM210前で皿チョン、BPM160になるところで1個上げ、BPM210戻る前で1個下げ"
   },
   {
     "name": "LESSON 5",
@@ -172,7 +172,7 @@
     "name_en": "nostos",
     "difficulty": 11,
     "option": "-/-",
-    "note": "緑数字を1.125倍"
+    "note": "144/132*n 272->297 263->287"
   },
   {
     "name": "OUTER LIMITS ALTERNATIVE",
@@ -242,7 +242,7 @@
     "name_en": "Sarutobi Champion is Sessha",
     "difficulty": 11,
     "option": "-/-",
-    "note": "FHS無し。白鍵5回で加速前後の緑数字が合うように白数字調整しておく"
+    "note": "BPM最高速合わせの緑数字にしておいて例のテクニックでHS調整してスタート、BPM変化前に皿チョン"
   },
   {
     "name": "SAY BAY",
@@ -458,7 +458,7 @@
     "name": "デッドボヲル de ホームラン",
     "name_en": "Deadball de Homerun",
     "difficulty": 11,
-    "option": "M/-",
+    "option": "M/- or R/R",
     "note": ""
   },
   {
@@ -466,14 +466,14 @@
     "name_en": "op.31 Jojo",
     "difficulty": 12,
     "option": "",
-    "note": "550くらいスタートで開始直後2個青、すぐに1個白。速くなる直前に1個白。中盤で皿ちょん。最後手前で1個青"
+    "note": "普段の緑数字+10スタート"
   },
   {
     "name": "DAY DREAM",
     "name_en": "DAY DREAM",
     "difficulty": 12,
     "option": "FLIP R/RR",
-    "note": "170/300*xスタート直後白8回,300前に白7回,170前に皿チョン,中盤青5回"
+    "note": "170/300*xスタート直後白8回,300前に白7回,170前に皿チョン,中盤2個上げ"
   },
   {
      "name": "音楽",
@@ -494,21 +494,21 @@
      "name_en": "moon_child",
     "difficulty": 12,
     "option": "FLIP R/R",
-    "note": "(160/146.0)*x 275->301 279->305"
+    "note": "緑数字1.096倍スタート"
   },
   {
      "name": "TRANOID",
      "name_en": "TRANOID",
     "difficulty": 12,
     "option": "R/R",
-    "note": "(190/180)*x 275->290 279->294"
+    "note": "緑数字1.056倍スタート、例のテクニック使う？BPM180冒頭の合間に皿チョン"
   },
   {
      "name": "Concertino in Blue",
      "name_en": "Concertino in Blue",
     "difficulty": 12,
     "option": "M/-",
-    "note": "(155.0/140)*x 275->304 279->308"
+    "note": "緑数字1.107倍スタート"
   },
   {
      "name": "Close the World feat.a☆ru",
@@ -549,7 +549,7 @@
     "name": "Bad Manics",
     "name_en": "Bad Manics",
     "difficulty": 12,
-    "option": "RR/M",
+    "option": "RR/M or -/M",
     "note": "FLIP の方がいいかも？"
   },
   {
@@ -662,7 +662,7 @@
     "name_en": "Fascination MAXX",
     "difficulty": 12,
     "option": "M/-",
-    "note": "FHSでHS3.95になるようSud+調節してBPM400で皿チョン、以降ボタン2個で調整"
+    "note": "普段の4倍の緑数字でスタート、道中2個上げ、連打前に2個下げ"
   },
   {
     "name": "†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)",
@@ -711,7 +711,7 @@
     "name_en": "sakura",
     "difficulty": 12,
     "option": "FLIP R/RR",
-    "note": ""
+    "note": "中盤は皿チョン、BPM上がる小節の皿でまた皿チョン"
   },
   {
     "name": "火影",
@@ -1026,7 +1026,7 @@
     "name_en": "Session 9 -Chronicles-",
     "difficulty": 12,
     "option": "-/M",
-    "note": "(189/182.0)*x 275->285 279->289 FHS無しで始めて連打後にセット"
+    "note": "FHS無し・通常の緑数字で始めて連打後に1.038倍の緑数字にしつつFHSをONにして普段の白数字に合わせる"
   },
   {
     "name": "Snakey Kung-fu",
@@ -1628,7 +1628,7 @@
     "name_en": "eRAseRmOToRpHAntOM",
     "difficulty": 12,
     "option": "SR/SR",
-    "note": "緑数字を倍にして、黒鍵何回かで適当な緑数字になるよう白数字調整してスタート、直後に黒鍵で緑数字合わせる。加速前に平常時の白数字付近に戻るよう FHS 調整で皿回す"
+    "note": "最高速BPMに合わせた緑数字でFHSを合わせた後鍵盤でいい感じに緑数字を合わせBPMが上がる手前で皿チョン"
   },
   {
     "name": "The Chase",
@@ -1733,7 +1733,7 @@
     "name_en": "PARANOiA ~HADES~",
     "difficulty": 12,
     "option": "R/R or M/-",
-    "note": "FHS使用。HS1.5になるようSud+調節しておく。BPM75入りで黒鍵4回、BPM150入ってﾃﾞﾃﾞﾃﾞﾝを叩いたら白鍵1回、BPM300入る前に白鍵3回"
+    "note": "緑数字2倍でスタート後例のテクニックでHS調整、BPM75になった直後とBPM300に戻る直前でそれぞれ皿チョン"
   },
   {
     "name": "Rampage",
@@ -1745,6 +1745,13 @@
   {
     "name": "禊",
     "name_en": "misogi",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "栄冠のカンパネラ",
+    "name_en": "eikannokanpaneracampanella",
     "difficulty": 12,
     "option": "M/-",
     "note": ""
