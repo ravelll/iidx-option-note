@@ -69,11 +69,13 @@ const App: React.FC = () => {
     <div>
       <div className='search-block'>
         <Input
+          type='text'
           allowClear
           value={inputVal}
           onChange={handleChange}
           size='large'
           className='main-input'
+          autoComplete='username'
         />
       </div>
       <div className='data-block'>
