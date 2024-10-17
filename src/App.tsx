@@ -16,7 +16,7 @@ interface Prop {
 }
 
 const OptionNoteList: React.FC<Prop> = ({ optionNotes }) => {
-  const list = optionNotes.map((n: OptionNote, i: number) => {
+  const list = optionNotes.map((n: OptionNote) => {
     return (
       <div className='data-item' key={n.name}>
         <div className='main-column'>{n.name}</div>

@@ -1,7 +1,6 @@
 .search-block {
-  padding-top: 1rem;
+  padding: 0.5rem 0 0.5rem;
   position: fixed;
-  height: 50px;
   width: 100%;
   background: #fff;
 }
@@ -22,12 +21,18 @@
 .data-item {
   border-bottom: 1px solid;
   border-color: #d6d8da;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
 }
 
 .main-column {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
+  font-weight: 500;
   color: #000;
 }
 
+.sub-column {
+  font-size: 0.8rem;
+  font-weight: 300;
+  color: #000;
+}
