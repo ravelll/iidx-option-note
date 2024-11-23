@@ -1298,7 +1298,7 @@
     "name": "深淵に捧ぐレクイエム",
     "name_en": "shinennisasagurequiem",
     "difficulty": 12,
-    "option": "-/R",
+    "option": "-/M",
     "note": ""
   },
   {
@@ -1648,7 +1648,7 @@
     "name": "Kailua",
     "name_en": "Kailua",
     "difficulty": 12,
-    "option": "-/M",
+    "option": "SR/M",
     "note": ""
   },
   {
@@ -1766,6 +1766,55 @@
   {
     "name": "frequent",
     "name_en": "frequent",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "がっつり陰キャ!?怪盗いいんちょの億劫^^;",
+    "name_en": "gattsuriinkya!?kaichoiinchonookkuu",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "SAMURAI-Scramble(L)",
+    "name_en": "SAMURAI-Scramble(L)",
+    "difficulty": 12,
+    "option": "R/R",
+    "note": ""
+  },
+  {
+    "name": "Elisha",
+    "name_en": "Elisha",
+    "difficulty": 11,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "Rave*it!! Rave*it!!",
+    "name_en": "Rave*it!! Rave*it!!",
+    "difficulty": 12,
+    "option": "-/-",
+    "note": ""
+  },
+  {
+    "name": "BITTER CHOCOLATE STRIKER(L)",
+    "name_en": "BITTER CHOCOLATE STRIKER(L)",
+    "difficulty": 12,
+    "option": "F M/M",
+    "note": ""
+  },
+  {
+    "name": "The trigger of innocence(L)",
+    "name_en": "The trigger of innocence(L)",
+    "difficulty": 12,
+    "option": "M/-",
+    "note": ""
+  },
+  {
+    "name": "The trigger of innocence(L)",
+    "name_en": "The trigger of innocence(L)",
     "difficulty": 12,
     "option": "M/-",
     "note": ""
