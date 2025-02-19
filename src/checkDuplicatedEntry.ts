@@ -1,4 +1,5 @@
 import { readFileSync } from 'fs'
+import { exit } from 'process'
 
 type OptionNoteEntry = {
   name: string
@@ -12,16 +13,22 @@ const optionNoteEntries: OptionNoteEntry[] = JSON.parse(
   readFileSync('./src/data/all.json', 'utf-8'),
 )
 
-const hasDuplicatedEntry = (optionNoteEntries: OptionNoteEntry[]): boolean => {
-  return (
-    optionNoteEntries.length !==
-    Array.from(new Set(optionNoteEntries.map((e) => e.name))).length
-  )
+const hasDuplicatedEntry = (optionNoteEntries: OptionNoteEntry[]): number => {
+  let error = 0
+  const titles = optionNoteEntries.map((e) => e.name)
+  titles.forEach((t, i) => {
+    if (titles.indexOf(t) !== i) {
+      console.log(`"${t}" is duplicated!!`)
+      error = 1
+    }
+  })
+
+  return error
 }
 
-if (hasDuplicatedEntry(optionNoteEntries)) {
-  console.log('👮‍♀️ Duplicated entry was found')
-  process.exit(1)
-} else {
+const error = hasDuplicatedEntry(optionNoteEntries)
+if (error === 0) {
   console.log('💯 No duplicated entry was found')
+} else {
+  exit(1)
 }
